@@ -7,4 +7,3 @@ print(filmList.index("O Hobbit"))
 # ordena a lista
 filmList.sort()
 print(filmList)
-# Adiciona um novo item à lista
